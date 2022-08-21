@@ -4,6 +4,6 @@ Includes requirements described in Assignment Two which are based on learnings f
 
 Created for School of Code Web Development Course. 
 
-Author
+##Author
 
 Tess Mullins
